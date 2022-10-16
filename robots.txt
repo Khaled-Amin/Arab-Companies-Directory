@@ -1,0 +1,11 @@
+# تم إنشاء ملف robotstxt بواسطة arabyseo
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://taj.orasweb.com/sitemap.xml
